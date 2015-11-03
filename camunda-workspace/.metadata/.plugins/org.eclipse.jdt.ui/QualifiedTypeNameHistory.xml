@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.camunda.bpm.application.impl.ServletProcessApplication"/>
+<fullyQualifiedTypeName name="org.camunda.bpm.engine.delegate.JavaDelegate"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+</qualifiedTypeNameHistroy>
