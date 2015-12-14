@@ -1,8 +1,0 @@
-INDEX VERSION 1.3+/home/firzhan/wso2/poc/camunda/bpmn/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-4114091429.index
-3656399420.index
-3670833080.index
-643716371.index
-3803709418.index
-122267605.index
-2061427248.index

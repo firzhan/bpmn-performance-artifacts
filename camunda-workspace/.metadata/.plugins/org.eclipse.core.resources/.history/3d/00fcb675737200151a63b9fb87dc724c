@@ -1,5 +1,0 @@
-package org.wso2.bpmn.task.servicetask;
-
-public class RandomNumberGenerator {
-
-}

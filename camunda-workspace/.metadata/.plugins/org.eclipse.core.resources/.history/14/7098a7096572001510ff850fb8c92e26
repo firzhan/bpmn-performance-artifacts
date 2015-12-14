@@ -1,5 +1,0 @@
-package org.camunda.bpmn.wfms;
-
-public class WfmsApplication {
-
-}
